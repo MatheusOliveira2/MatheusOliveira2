@@ -20,7 +20,7 @@
 
 ## 🤹 Skills
 - VueJs
-- Rect
+- React
 - Git
 - SQL
 - Mongo
@@ -32,5 +32,5 @@
 - Jenkins
 - Sonarqube
 - Integração contínua
-- Testes automátizados
+- Testes automatizados
 - TypeScript

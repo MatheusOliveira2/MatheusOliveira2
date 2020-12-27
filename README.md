@@ -3,7 +3,7 @@
 <h1 align="center">Meu Perfil</h1>
 
 ## Descrição
-<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia) e atualmente sou estagiário de desenvolvimento na Tbit, onde trabalho com visão computacional utilizando .NET. Trabalho como freelance meio periodo e atualmente estou trabalhando como desenvolvedor front-end de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvo utilizando VueJS.</p>
+<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia) e atualmente sou estagiário de desenvolvimento na Tbit, onde trabalho com visão computacional utilizando .NET. Trabalho como freelancer meio periodo e atualmente estou trabalhando como desenvolvedor front-end de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvo utilizando VueJS.</p>
 
 ## 🔭 Experiência Profissional
 

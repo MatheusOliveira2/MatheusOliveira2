@@ -5,12 +5,12 @@
 <h1 align="center">Meu Perfil</h1>
 
 ## Descrição
-<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia) e atualmente sou estagiário de desenvolvimento na Tbit, onde trabalho com visão computacional utilizando .NET. Trabalho como freelancer meio período e atualmente estou trabalhando como desenvolvedor front-end de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvo utilizando VueJS.</p>
+<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia), fui estagiário de desenvolvimento na Tbit, onde trabalhei com visão computacional utilizando .NET. Trabalhei como como desenvolvedor front-end freelancer de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvia utilizando VueJS. Atualmente sou Trainee de Desenvolvimento na SYDLE</p>
 
 ## 🔭 Experiência Profissional
-
-- Tbit - Estagiário Desenvolvedor .NET (09/2019 - Atual)
-- Freelance - Desenvolvedor Front-End (VueJs) (04/2020 - Atual)
+- SYDLE - Trainee de de Desenvolvimento (02/2021 - Atual)
+- Tbit - Estagiário Desenvolvedor .NET (09/2019 - 01/2021)
+- Freelance - Desenvolvedor Front-End (VueJs) (04/2020 - 01/2021)
 
 ## 🏫 Experiência na Universidade
 - Equipe de Robótica Troia
@@ -28,6 +28,7 @@
 - Mongo
 - .NET
 - Node
+- JavaScript
 
 ## 📗 Estudando
 - Docker

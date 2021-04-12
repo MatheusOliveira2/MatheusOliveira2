@@ -37,6 +37,7 @@
 - Integração contínua
 - Testes automatizados
 - TypeScript
+- JAVA
 
 ### Dados do GitHub
 

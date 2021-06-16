@@ -38,6 +38,8 @@
 - Testes automatizados
 - TypeScript
 - JAVA
+- Spring
+- Message Broker
 
 ### Dados do GitHub
 

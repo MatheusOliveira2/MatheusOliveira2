@@ -5,7 +5,7 @@
 <h1 align="center">Meu Perfil</h1>
 
 ## Descrição
-<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia), fui estagiário de desenvolvimento na Tbit, onde trabalhei com visão computacional utilizando .NET. Trabalhei como como desenvolvedor front-end freelancer de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvia utilizando VueJS. Atualmente sou Trainee de Desenvolvimento na SYDLE</p>
+<p align="center">Meu nome é Matheus Oliveira, estou quase me formando em Ciência da Computação na Universidade Federal de Lavras, durante a faculdade fui monitor de circuitos eletrônicos, pesquisador de detecção facial utilizando hardware reconfigurável, participei de um núcleo de robótica (Tróia), fui estagiário de desenvolvimento na Tbit, onde trabalhei com visão computacional utilizando .NET. Trabalhei como como desenvolvedor front-end freelancer de uma plataforma para uma franquia de escolas voltada para educação física, onde desenvolvia utilizando VueJS. Atualmente sou Engenheiro de Software na SYDLE</p>
 
 ## 🔭 Experiência Profissional
 - SYDLE - Engenheiro de Software (02/2021 - Atual)

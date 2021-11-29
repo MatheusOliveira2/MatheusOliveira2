@@ -22,23 +22,23 @@
 
 ## 🤹 Skills
 - VueJs
-- React
 - Git
 - SQL
 - Mongo
 - .NET
 - Node
 - JavaScript
+- JAVA
+- Spring
 
 ## 📗 Estudando
 - Docker
 - Jenkins
+- React
 - Sonarqube
 - Integração contínua
 - Testes automatizados
 - TypeScript
-- JAVA
-- Spring
 - Message Broker
 
 ### Dados do GitHub

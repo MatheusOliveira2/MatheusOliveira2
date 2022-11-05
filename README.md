@@ -10,28 +10,41 @@
 
 ## 🤹 Skills
 -Angular
+
 -Vue
+
 -StencilJs
+
 -Web Components
+
 -SASS
+
 -Bootstrap
+
 -Redux
+
 -Vuex
+
 -Material UI
+
 -Git
+
 -Axios
--REST
+
 -Java
+
 -MongoDB
 
 ## 📗 Knowledge
 
-React
-Tailwind
-SQL
+-React
+
+-Tailwind
+
+-SQL
 
 ### GitHub Data
 
 ![](https://github-readme-stats.vercel.app/api?username=MatheusOliveira2&show_icons=true&theme=blueberry)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira2&layout=compact&theme=blueberry&exclude_repo=CG&hide=CSS)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira2&layout=compact&theme=blueberry&exclude_repo=CG&hide=CSS&&PureBasic)

@@ -4,7 +4,7 @@
 
 ## 🔭 Professional Experience
 - SYDLE - Forntend Developer (02/2021 - Atual)
-- Tbit - .Net Developer Intern (09/2019 - 01/2021)
+- Tbit - .Net Developer (09/2019 - 01/2021)
 - Freelance - Front-End Developer (VueJs) (04/2020 - 01/2021)
 
 

@@ -3,16 +3,14 @@
 <h1 align="center">My profile</h1>
 
 ## 🔭 Professional Experience
-- SYDLE - Forntend Developer (02/2021 - Current)
+- SYDLE - Frontend Developer (02/2021 - Current)
 - Tbit - .Net Developer (09/2019 - 01/2021)
-- Freelance - Front-End Developer (VueJs) (04/2020 - 01/2021)
+- Freelance - Front-End Developer (React) (04/2020 - 01/2021)
 
 
 ## 🤹 Skills
 
 -React
-
--Vue
 
 -StencilJs
 
@@ -24,18 +22,11 @@
 
 -Redux
 
--Vuex
-
 -Material UI
 
 -Git
 
 -Axios
-
--Java
-
--MongoDB
-
 
 ### GitHub Data
 
